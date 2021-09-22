@@ -74,3 +74,15 @@ void loop() {
     }
   }
 }
+
+
+secrets.h
+
+// Use this file to store all of the private credentials 
+// and connection details
+
+#define SECRET_SSID "CRISTINA_ERAZO"		// replace MySSID with your WiFi network name
+#define SECRET_PASS "*LuisaP1999*/"	// replace MyPassword with your WiFi password
+
+#define SECRET_CH_ID 1373632		// replace 0000000 with your channel number
+#define SECRET_WRITE_APIKEY "UMGQMQ50N8UWX0CR"   // replace XYZ with your channel write API Key
